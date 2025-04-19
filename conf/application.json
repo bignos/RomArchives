@@ -1,0 +1,203 @@
+{
+    "platforms": 
+    [
+        {
+            "name": "Nintendo",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/",
+            "ext": "zip",
+            "directory": "roms/nes"
+        },
+        {
+            "name": "Master System",
+            "url": "https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/",
+            "ext": "zip",
+            "directory": "roms/sms"
+        },
+        {
+            "name": "PC Engine",
+            "url": "https://myrient.erista.me/files/No-Intro/NEC%20-%20PC%20Engine%20-%20TurboGrafx-16/",
+            "ext": "zip",
+            "directory": "roms/pce"
+        },
+        {
+            "name": "Mega Drive",
+            "url": "https://myrient.erista.me/files/No-Intro/Sega%20-%20Mega%20Drive%20-%20Genesis/",
+            "ext": "zip",
+            "directory": "roms/megadrive"
+        },
+        {
+            "name": "Game Boy",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/",
+            "ext": "zip",
+            "directory": "roms/gb"
+        },
+        {
+            "name": "PC Engine CD",
+            "url": "https://myrient.erista.me/files/Redump/NEC%20-%20PC%20Engine%20CD%20&%20TurboGrafx%20CD/",
+            "ext": "zip",
+            "directory": "roms/pcecd"
+        },
+        {
+            "name": "Lynx",
+            "url": "https://myrient.erista.me/files/No-Intro/Atari%20-%20Lynx%20%28LYX%29/",
+            "ext": "zip",
+            "directory": "roms/lynx"
+        },
+        {
+            "name": "Game Gear",
+            "url": "https://myrient.erista.me/files/No-Intro/Sega%20-%20Game%20Gear/",
+            "ext": "zip",
+            "directory": "roms/gg"
+        },
+        {
+            "name": "Super Nintendo",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/",
+            "ext": "zip",
+            "directory": "roms/snes"
+        },
+        {
+            "name": "Game Boy Color",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/",
+            "ext": "zip",
+            "directory": "roms/gbc"
+        },
+        {
+            "name": "Sega 32X",
+            "url": "https://myrient.erista.me/files/No-Intro/Sega%20-%2032X/",
+            "ext": "zip",
+            "directory": "roms/sega32x"
+        },
+        {
+            "name": "Jaguar",
+            "url": "https://myrient.erista.me/files/No-Intro/Atari%20-%20Jaguar%20%28ROM%29/",
+            "ext": "zip",
+            "directory": "roms/jaguar"
+        },
+        {
+            "name": "Mega CD",
+            "url": "https://myrient.erista.me/files/Redump/Sega%20-%20Mega%20CD%20&%20Sega%20CD/",
+            "ext": "zip",
+            "directory": "roms/megacd"
+        },
+        {
+            "name": "3DO",
+            "url": "https://myrient.erista.me/files/Redump/Panasonic%20-%203DO%20Interactive%20Multiplayer/",
+            "ext": "zip",
+            "directory": "roms/3do"
+        },
+        {
+            "name": "CD-i",
+            "url": "https://myrient.erista.me/files/Redump/Philips%20-%20CD-i/",
+            "ext": "zip",
+            "directory": "roms/cdi"
+        },
+        {
+            "name": "Neo Geo CD",
+            "url": "https://myrient.erista.me/files/Redump/SNK%20-%20Neo%20Geo%20CD/",
+            "ext": "zip",
+            "directory": "roms/neogeocd"
+        },
+        {
+            "name": "PlayStation",
+            "url": "https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/",
+            "ext": "zip",
+            "directory": "roms/psx"
+        },
+        {
+            "name": "Saturn",
+            "url": "https://myrient.erista.me/files/Redump/Sega%20-%20Saturn/",
+            "ext": "zip",
+            "directory": "roms/saturn"
+        },
+        {
+            "name": "Nintendo 64",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/",
+            "ext": "zip",
+            "directory": "roms/n64"
+        },
+        {
+            "name": "Neo Geo Pocket",
+            "url": "https://myrient.erista.me/files/No-Intro/SNK%20-%20NeoGeo%20Pocket%20Color/",
+            "ext": "zip",
+            "directory": "roms/ngp"
+        },
+        {
+            "name": "Game Boy Advance",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/",
+            "ext": "zip",
+            "directory": "roms/gba"
+        },
+        {
+            "name": "Dreamcast",
+            "url": "https://myrient.erista.me/files/Redump/Sega%20-%20Dreamcast/",
+            "ext": "zip",
+            "directory": "roms/dreamcast"
+        },
+        {
+            "name": "PlayStation 2",
+            "url": "https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/",
+            "ext": "zip",
+            "directory": "roms/ps2"
+        },
+        {
+            "name": "Xbox",
+            "url": "https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox/",
+            "ext": "zip",
+            "directory": "roms/xbox"
+        },
+        {
+            "name": "GameCube",
+            "url": "https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/EuropeanGamecubeCollectionByGhostware/",
+            "ext": "iso",
+            "directory": "roms/gc"
+        },
+        {
+            "name": "DS",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/",
+            "ext": "zip",
+            "directory": "roms/ds"
+        },
+        {
+            "name": "PSP",
+            "url": "https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/",
+            "ext": "zip",
+            "directory": "roms/psp"
+        },
+        {
+            "name": "Wii",
+            "url": "https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/",
+            "ext": "zip",
+            "directory": "roms/wii"
+        },
+        {
+            "name": "Xbox 360",
+            "url": "https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/",
+            "ext": "zip",
+            "directory": "roms/xbox360"
+        },
+        {
+            "name": "PlayStation 3",
+            "url": "https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/",
+            "ext": "zip",
+            "directory": "roms/ps3"
+        },
+        {
+            "name": "3DS",
+            "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/",
+            "ext": "zip",
+            "directory": "roms/3ds"
+        },
+        {
+            "name": "PlayStation Vita",
+            "url": "https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/",
+            "ext": "zip",
+            "directory": "roms/psvita"
+        },
+        {
+            "name": "Wii U",
+            "url": "https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates/",
+            "ext": "wua",
+            "directory": "roms/wiiu"
+        }
+    ]
+}

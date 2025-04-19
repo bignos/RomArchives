@@ -1,0 +1,25 @@
+Static {
+    text-align: center;
+    text-style: bold;
+}
+
+Select {
+    margin-bottom: 2;
+}
+
+Input {
+    margin-bottom: 2;
+}
+
+DataTable {
+    margin-bottom: 2;
+}
+
+#roms_table {
+    height: 50%;
+}
+
+#downloads_table {
+    height: 20%;
+}
+

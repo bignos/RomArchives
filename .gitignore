@@ -1,0 +1,14 @@
+# Python build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Roms directory
+roms/
+
+# Ignore all log files
+*.log
+
+# Ignore all backup files
+*~
