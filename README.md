@@ -1,5 +1,7 @@
 # Rom Archives
 
+![Rom Archives screenshot](./RomArchives.png)
+
 ## Objectifs
 
 Développer un outils qui va permettre de lister toutes les roms disponibles sur une plateforme.
