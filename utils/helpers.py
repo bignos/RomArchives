@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 # -[ Imports ]-
 
@@ -12,6 +12,7 @@ DEBUG = True
 
 # -[ Public ]-
 
+
 def debug(string: str):
     """
     Prints a debug message.
@@ -19,11 +20,13 @@ def debug(string: str):
     if DEBUG:
         print(f'[DEBUG] {string}')
 
+
 def terminal_display(var: any):
     """
     Displays a variable in the terminal.
     """
     print(json.dumps(var, indent=4))
+
 
 def load_json(path: str):
     """

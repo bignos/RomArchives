@@ -9,17 +9,19 @@ from utils import (
 
 # -[ Constants ]-
 
-CONF=helpers.load_json('conf/application.json')
+CONF = helpers.load_json('conf/application.json')
 
 # -[ Private ]-
 
 # -[ Public ]-
+
 
 def get_platforms() -> list:
     """
     Get all platforms
     """
     return [p['name'] for p in CONF['platforms']]
+
 
 def load_platform(platform: str) -> list:
     """
@@ -32,8 +34,8 @@ def load_platform(platform: str) -> list:
 
     conf = [p for p in CONF['platforms'] if p['name'] == platform][0]
     roms = scraper.get_rom_list(
-        url=conf['url'], 
-        platform=platform, 
+        url=conf['url'],
+        platform=platform,
         ext=conf['ext']
     )
     return roms

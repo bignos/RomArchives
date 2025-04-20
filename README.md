@@ -1,6 +1,6 @@
 # Rom Archives
 
-![Rom Archives screenshot](./RomArchives.png)
+![Rom Archives screenshot](./RomArchives.svg)
 
 ## Objectifs
 

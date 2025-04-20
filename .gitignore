@@ -12,3 +12,6 @@ roms/
 
 # Ignore all backup files
 *~
+
+# Ignore download queue
+download_queue.json

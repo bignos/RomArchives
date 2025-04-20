@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 # -[ Private ]-
 # -[ Public ]-
 
+
 def get_rom_list(url: str, platform: str, ext: str) -> list:
     """
     Get the list of roms from a given url
@@ -34,7 +35,8 @@ def get_rom_list(url: str, platform: str, ext: str) -> list:
                     link_tag = td_link.find('a')
                     if link_tag.get_text(strip=True).endswith(f'.{ext}'):
                         result.append({
-                            'name': link_tag.get_text(strip=True).replace(f'.{ext}', ''),
+                            'name': link_tag
+                            .get_text(strip=True).replace(f'.{ext}', ''),
                             'url': f"{url}{link_tag['href']}",
                             'size': td_size.get_text(strip=True),
                             'platform': platform
